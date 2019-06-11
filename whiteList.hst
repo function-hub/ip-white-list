@@ -1,13 +1,3 @@
-# BEGIN hosts added by Pulse
-155.201.9.29   wc03.vpn.pwc.com
-# END hosts added by Pulse
-#
-# localhost is used to configure the loopback interface
-# when the system is booting.  Do not change this entry.
-##
-127.0.0.1	localhost
-255.255.255.255	broadcasthost
-::1             localhost
 47.95.164.112 www.csdn.net
 47.95.47.253 blog.csdn.net
 
